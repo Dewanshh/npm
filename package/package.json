@@ -1,0 +1,22 @@
+{
+  "name": "@dewanshh/ischeck112",
+  "version": "1.0.0",
+  "description": "is string correct>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewanshh/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Dewansh Jangir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dewanshh/npm/issues"
+  },
+  "homepage": "https://github.com/Dewanshh/npm#readme"
+}
